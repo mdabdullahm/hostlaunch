@@ -14,7 +14,7 @@ const CTASection = () => {
           whileInView={{ opacity: 1, scale: 1 }}
           viewport={{ once: true }}
           transition={{ duration: 0.6 }}
-          className="relative overflow-hidden bg-brand rounded-[3rem] p-10 lg:p-20 text-center shadow-2xl shadow-brand/30"
+          className="relative overflow-hidden bg-brand rounded-[1.5rem] p-10 lg:p-20 text-center shadow-2xl shadow-brand/30"
         >
           {/* ব্যাকগ্রাউন্ড ডেকোরেশন */}
           <div className="absolute top-0 right-0 -mr-20 -mt-20 w-80 h-80 bg-white/10 rounded-full blur-3xl" />
