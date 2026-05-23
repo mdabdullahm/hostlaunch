@@ -53,7 +53,7 @@ const keyFeatures = [
 const KeyFeatures = () => {
   return (
     <section className="py-24 bg-white overflow-hidden">
-      <div className="container mx-auto px-6">
+      <div className="max-w-full mx-auto px-6">
         
         <div className="flex flex-col lg:flex-row items-end justify-between mb-16 gap-6">
           <div className="max-w-2xl">

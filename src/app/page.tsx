@@ -8,7 +8,7 @@ import WhyBluehost from "@/components/home/why-bluehost";
 
 export default function Home() {
   return (
-    <main className="py-10">
+    <main className="pt-14">
       <Hero/>
       <WhyBluehost/>
       <HostingPlans/>

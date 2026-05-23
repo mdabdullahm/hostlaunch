@@ -27,7 +27,7 @@ const Hero = () => {
       <div className="absolute top-0 right-0 -mr-20 -mt-20 w-96 h-96 bg-brand-light rounded-full blur-3xl opacity-50" />
       <div className="absolute bottom-0 left-0 -ml-20 -mb-20 w-72 h-72 bg-brand-light rounded-full blur-3xl opacity-30" />
 
-      <div className="container mx-auto px-6 relative z-10">
+      <div className="max-w-full mx-auto px-6 relative z-10">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           
           {/* টেক্সট কন্টেন্ট */}

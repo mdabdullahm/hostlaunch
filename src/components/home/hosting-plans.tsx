@@ -38,7 +38,7 @@ const plans = [
 const HostingPlans = () => {
   return (
     <section className="py-10 bg-white">
-      <div className="container mx-auto px-6">
+      <div className="max-w-full mx-auto px-6">
         
         {/* Header */}
         <div className="text-center max-w-3xl mx-auto mb-16">

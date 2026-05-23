@@ -49,7 +49,7 @@ const doubledReviews = [...reviews, ...reviews];
 const CustomerReviews = () => {
   return (
     <section className="py-24 bg-gray-50 overflow-hidden">
-      <div className="container mx-auto px-6 mb-16 text-center">
+      <div className="max-w-full mx-auto px-6 mb-16 text-center">
         <motion.h2 
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
